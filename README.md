@@ -23,7 +23,9 @@ This is the layout:
 </p>
 
 This is the layout with the ''Shift'' key pressed:
-![](img/with_shift.png)
+<p align="center">
+  <img src="img/with_shift.png" />
+</p>
 
 ## How to use it
 You have to download Microsoft Keyboard Layout Creator (you can find the link [here](https://www.microsoft.com/en-us/download/details.aspx?id=102134)). After installing it, load the source file (KLC extension) and build the DLL and the setup package.
