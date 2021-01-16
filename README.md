@@ -2,9 +2,9 @@
 
 These are the custom settings of my colemak mod dh (wide) layout variant for programming. The layout is an hybrid between an ANSI and an ISO/OSI layout (called ANSISO).
 
-Yes, this is just for myself. 
-No, this is not an official mod. 
-No, publishing the setting doesn't mean that you will like them / be comfortable using them.
+Yes, this is just for myself. <br>
+No, this is not an official mod. <br>
+No, publishing the setting doesn't mean that you will like them / be comfortable using them. <br>
 
 ## What did I change
 It is basically the mod dh wide variant but with some keys swapped:
