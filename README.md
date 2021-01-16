@@ -28,7 +28,8 @@ This is the layout with the ''Shift'' key pressed:
 </p>
 
 ## How to use it
-You have to download Microsoft Keyboard Layout Creator (you can find the link [here](https://www.microsoft.com/en-us/download/details.aspx?id=102134)). After installing it, load the source file (KLC extension) and build the DLL and the setup package.
+You have to download Microsoft Keyboard Layout Creator (you can find the link [here](https://www.microsoft.com/en-us/download/details.aspx?id=102134)). <br>
+After installing it, load the source file (KLC extension) and build the DLL and the setup package.
 
 ## Original layout
 
