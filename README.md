@@ -17,9 +17,9 @@ It is basically the mod dh wide variant but with some keys swapped:
 ## The keyboard
 
 This is the layout:
-![](/img/no_shift.png)
-This is the layout with the ''Shift'' key pressed::
-![](/img/with_shift.png)
+![](img/no_shift.png)
+This is the layout with the ''Shift'' key pressed:
+![](img/with_shift.png)
 
 ## How to use it
 You have to download Microsoft Keyboard Layout Creator (you can find the link [here](https://www.microsoft.com/en-us/download/details.aspx?id=102134)). After installing it, load the source file (KLC extension) and build the DLL and the setup package.
