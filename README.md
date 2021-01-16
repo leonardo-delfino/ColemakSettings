@@ -1,6 +1,6 @@
 # Colemak mod dh wide for an ANSISO keyboard
 
-These are the custom settings of my colemak mod dh (wide) layout variant for programming. The layout is an hybrid between an ANSI and an ISO/OSI layout (called ANSISO). I am currently using a Logitech G915 keyboard.
+These are the custom settings of my colemak mod dh (wide) layout variant for programming. The layout is an hybrid between an ANSI and an ISO/OSI layout (called ANSISO). I am currently using a [Logitech G915](https://www.logitechg.com/en-us/products/gaming-keyboards/g915-low-profile-wireless-mechanical-gaming-keyboard.html) keyboard.
 
 Yes, this is just for myself. <br>
 No, this is not an official mod. <br>
