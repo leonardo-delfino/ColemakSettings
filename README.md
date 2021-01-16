@@ -17,12 +17,12 @@ It is basically the mod dh wide variant but with some keys swapped:
 ## The keyboard
 
 
-This is the layout:
+The layout:
 <p align="center">
   <img src="img/no_shift.png" />
 </p>
 
-This is the layout with the ''Shift'' key pressed:
+The layout with the ''Shift'' key pressed:
 <p align="center">
   <img src="img/with_shift.png" />
 </p>
