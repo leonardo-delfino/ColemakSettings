@@ -18,7 +18,9 @@ It is basically the mod dh wide variant but with some keys swapped:
 
 
 This is the layout:
-![](img/no_shift.png)
+<p align="center">
+  <img src="img/no_shift.png" />
+</p>
 
 This is the layout with the ''Shift'' key pressed:
 ![](img/with_shift.png)
