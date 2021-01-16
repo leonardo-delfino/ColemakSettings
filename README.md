@@ -16,8 +16,10 @@ It is basically the mod dh wide variant but with some keys swapped:
 
 ## The keyboard
 
+
 This is the layout:
 ![](img/no_shift.png)
+
 This is the layout with the ''Shift'' key pressed:
 ![](img/with_shift.png)
 
