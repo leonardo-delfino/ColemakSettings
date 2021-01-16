@@ -35,7 +35,7 @@ You have to download Microsoft Keyboard Layout Creator (you can find the link [h
 If you want to know more about the Colemak mod dh wide layout, you will find everything you need at [this link](https://colemakmods.github.io/mod-dh/keyboards.html).
 
 ## TODO
-* Maybe it could be better to use the Programmer Dvorak's number layout? (even if it is against the ''rolling over keys'' mindset). 
+* Maybe it could be better to use the Programmer Dvorak's layout for the numbers? (even if it is against the ''rolling over keys'' mindset). 
 
 ## License
 [MIT license](https://choosealicense.com/licenses/mit/).
