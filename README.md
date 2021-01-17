@@ -37,6 +37,3 @@ If you want to know more about the Colemak mod dh wide layout, you will find eve
 
 ## TODO
 * Maybe it could be better to use the Programmer Dvorak's layout for the numbers? (even if it is against the ''rolling over keys'' mindset). 
-
-## License
-[MIT license](https://choosealicense.com/licenses/mit/).
