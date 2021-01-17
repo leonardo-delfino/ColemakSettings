@@ -9,10 +9,11 @@ No, publishing the setting doesn't mean that you will like them / be comfortable
 ## What did I change
 It is basically the mod dh wide variant but with some keys swapped:
 
-* Instead of the ''/'' key, I use the ''(''. The same thing applies if the "Shift'' key is pressed. Instead of the ''?'', I prefer the '')''. I can now control every single parenthesis with the keys that are in the center of the keyboard (by using an IDE the parenthesis will be closed automatically, so you do not even need to press the ''Shift'' key at all).
-* The '';'' and the '':'' are now next to the ''o'' key.
-* Instead of the '';'' and the '':'' key, we have the ''\\'' and the ''|'' key.
-* Right next to the ''\\'' and the ''|'' key, there is the single and double quotation mark key.
+* Instead of the ''/'' key, I use the ''(''. The same thing applies if the "Shift'' key is pressed. Instead of the ''?'', I prefer the '')''. I can now control every single parenthesis with the keys that are in the center of the keyboard (by using an IDE the parenthesis will be closed automatically, so you do not even need to press the ''Shift'' key at all);
+* The '';'' and the '':'' are now next to the ''o'' key;
+* Instead of the '';'' and the '':'' key, we have the ''/'' and the ''\\'' key;
+* Right next to the ''/'' and the ''\\'' key, there is the single and double quotation mark key;
+* Instead of the ''+'' key, now we have the ''|'' key. All the mathematical operators (except for the ''/'') can be accessed by pressing ''Shift'' and a number (look at the images below to know which number).
 
 ## The keyboard layout
 
